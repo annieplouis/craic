@@ -7,7 +7,7 @@ Annie Louis, Santanu Kumar Dash, Earl T. Barr and Charles Sutton
 https://arxiv.org/pdf/1806.04616.pdf
 
 
-Please see our paper for details about the dataset. This repository contains the data, code and the best models reported in our paper. 
+Please see our paper for details about the dataset. This repository contains the code for training and inference. The data and models from our paper can also be downloaded [models](groups.inf.ed.ac.uk/cup/craic/models.tar.gz)[data](groups.inf.ed.ac.uk/cup/craic/data.tar.gz)
 
 ## Built With
 
@@ -20,6 +20,10 @@ Please see our paper for details about the dataset. This repository contains the
 * **Earl T. Barr**
 * **Charles Sutton**
 
+## Contact 
+Questions and comments to:
+Annie Louis
+annieplouis@gmail.com
 
 
 
